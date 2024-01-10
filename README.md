@@ -9,9 +9,5 @@ This project was created for my students to work on their equation solving skill
 * Scoring System: Players earn points based on the speed and accuracy of their answers.
 
 **Installation Instructions**
-
-There are two ways to install and run the game:
-
-* Unity Package Import:
-  * Download the Unity package.
-  * Import the package into your Unity project.
+* Download the project repository.
+* Open the project in Unity as is.
