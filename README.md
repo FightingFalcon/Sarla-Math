@@ -1,6 +1,6 @@
 # Sarla-Math Linear Equation Duel
 
-This project was created for my students (Särla elementary school) to work on their equation solving skills during extra study time.
+This project was created for my students (Särla elementary school) to work on their equation solving skills during extra study time on their iPads.
 <kbd>
 ![](https://github.com/FightingFalcon/Sarla-Math-Equation-Duel-Unity3D/blob/main/gif.gif)
 </kbd>
