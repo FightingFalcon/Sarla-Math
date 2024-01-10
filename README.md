@@ -17,5 +17,5 @@ There are two ways to install and run the game:
   * Open the project in Unity as is.
 
 * Unity Package Import:
-  * Download the Unity package from the Package_export folder.
+  * Download the Unity package.
   * Import the package into your Unity project.
