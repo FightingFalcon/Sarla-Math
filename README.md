@@ -12,10 +12,6 @@ This project was created for my students to work on their equation solving skill
 
 There are two ways to install and run the game:
 
-* Direct Download:
-  * Download the project repository.
-  * Open the project in Unity as is.
-
 * Unity Package Import:
   * Download the Unity package.
   * Import the package into your Unity project.
