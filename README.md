@@ -5,8 +5,8 @@ This project is a multiplayer game designed for phones and iPads where two playe
 This project was created for my students to work on their equation solving skills during extra study time.
 
 * Competitive Multiplayer Gameplay: Two players compete to solve math problems, each on their own side of the screen.
-* Dynamic Problem Generation: Math problems are generated randomly, providing a unique challenge each time.
-* Scoring System: Players earn points based on the speed and accuracy of their answers, encouraging a competitive environment.
+* Dynamic Problem Generation: Math problems are generated randomly.
+* Scoring System: Players earn points based on the speed and accuracy of their answers.
 
 **Installation Instructions**
 
